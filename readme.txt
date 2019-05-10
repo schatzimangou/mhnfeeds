@@ -1,1 +1,1 @@
-Instructions can be found here: http://securityscrapbook.com/2016/12/25/modern-honey-network-generating-your-own-feeds/
+
